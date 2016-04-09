@@ -13,7 +13,7 @@
             var fetchData;
             var resolvePromise;
 
-            var publicGoogleSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1UotFPraJTw6bgKWufi53Vv7KelNLgBSoX_js4P-Ou4M/pubhtml';
+            var publicGoogleSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1gnl2FlGNoE3RgOrbTboqlHOcKyaXRE26Says5wPqqCA/pubhtml';
 
             fetchData = function () {
                 Tabletop.init({
